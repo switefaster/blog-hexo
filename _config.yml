@@ -4,7 +4,7 @@
 
 # Site
 title: Switefaster's Blog
-subtitle: 'About the story with Rust&Game'
+subtitle: 'About his story with Rust&Game'
 description: ''
 keywords:
 author: switefaster
@@ -13,6 +13,9 @@ language:
   - ja
   - en
 timezone: Asia/Shanghai
+
+# Disqus
+disqus_shortname: switefaster-blog
 
 # URL
 url: https://switefaster.github.io/

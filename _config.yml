@@ -19,7 +19,7 @@ disqus_shortname: switefaster-blog
 
 # URL
 url: https://switefaster.github.io/
-root: /
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

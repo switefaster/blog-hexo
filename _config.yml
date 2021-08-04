@@ -18,8 +18,8 @@ timezone: Asia/Shanghai
 disqus_shortname: switefaster-blog
 
 # URL
-url: https://switefaster.github.io/
-root: /blog/
+url: https://switefaster.github.io/blog/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
